@@ -28,9 +28,9 @@
  
  <div align="center">
 	<a href="https://github.com/LeonardoHMartins/star_wars">
-		<img height="200em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoHMartins&repo=star_wars&theme=radical")
+		<img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoHMartins&repo=star_wars&theme=radical")
 	</a>
 	<a href="https://github.com/LeonardoHMartins/app_cadastro">
-		<img height="200em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoHMartins&repo=app_cadastro&theme=radical")
+		<img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoHMartins&repo=app_cadastro&theme=radical")
 	</a>
 </div>
