@@ -36,19 +36,16 @@
 ## 🚀 Projetos em destaque
 
 ### [star_wars](https://github.com/LeonardoHMartins/star_wars)  
-Pequeno projeto/experimento — descrição curta do que faz e por que é legal.  
+Pequeno projeto/experimento.
 `Tech:` Flutter • Dart • API
 
 ### [api_lojinha_dart_frog](https://github.com/LeonardoHMartins/api_lojinha_dart_frog)  
 API construída com Dart Frog — ideal para lojas pequenas / POCs.  
 `Tech:` Dart Frog • PostgreSQL
 
-> 🔎 Dica: adicione um `README` em cada repo com GIFs/prints — isso aumenta muito a visualização.
-
 ---
 
 ## 📂 Meus números (auto-updating badges)
-> Esses badges usam shields.io e a API pública do GitHub — mais estáveis que serviços não oficiais.
 
 - Repositórios públicos:  
   `![Repos](https://img.shields.io/github/repos/LeonardoHMartins?style=flat-square)`
@@ -58,8 +55,6 @@ API construída com Dart Frog — ideal para lojas pequenas / POCs.
 
 - Último commit em *star_wars*:  
   `![Last Commit](https://img.shields.io/github/last-commit/LeonardoHMartins/star_wars?style=flat-square)`
-
-> Substitua `star_wars` pelo repo que quiser monitorar.
 
 ---
 
